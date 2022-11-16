@@ -1,9 +1,9 @@
 #  Number Base Converter
-## Java Backend Developer Project
+## Java Core Project
 ### JetBrains Academy https://hyperskill.org
 
-1. Number Bases
-2. Number conversion from one base to another
-3. BigInteger
-4. BigDecimal
+1. Transpose Matrix
+2. Scalar Matrix Multiplication
+3. Determinant
+4. Inverse Matrix
 5. Scale, RoundingMode
