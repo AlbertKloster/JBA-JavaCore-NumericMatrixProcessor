@@ -1,4 +1,4 @@
-#  Number Base Converter
+# Numeric Matrix Processor
 ## Java Core Project
 ### JetBrains Academy https://hyperskill.org
 
